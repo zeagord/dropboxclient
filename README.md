@@ -12,5 +12,7 @@ To Run the application,
 
 Application runs in the `PORT: 9020`, Change it the application.yml if you wish.
 
-UI: HTML5, CSS3, jQuery, Javascript
-Service: Spring Boot Microservice
+
+UI: `HTML5, CSS3, jQuery, Javascript`
+
+Service: `Spring Boot Microservice`
