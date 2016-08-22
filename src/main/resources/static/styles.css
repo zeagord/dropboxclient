@@ -1,0 +1,10 @@
+a {
+    transition: all 100ms ease-in-out 0s;
+    position: relative;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+#app-root{
+  margin-top: 10%;
+}
