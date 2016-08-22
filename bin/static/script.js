@@ -16,6 +16,12 @@ function getData(path, id){
         }),
       success: function (result){ render(result, id)},
       failure: function (error){ renderError(error)},
+      beforeSend: function() {
+        $('#loader').css("display", "block");
+      },
+      complete: function(){
+        $('#loader').css("display", "none");
+      },
       });
 }
 function renderError(error) {

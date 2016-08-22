@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "",
+    "type": "poc.raja.dropbox.microservice.core.ApplConfig",
+    "sourceType": "poc.raja.dropbox.microservice.core.ApplConfig"
+  }],
+  "properties": [],
+  "hints": []
+}
