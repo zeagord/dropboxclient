@@ -12,6 +12,7 @@ To Run the application,
 
 Application runs in the `PORT: 9020`, Change it the application.yml if you wish.
 
+Launch `http://localhost:9020` to see the application
 
 UI: `HTML5, CSS3, jQuery, Javascript`
 
